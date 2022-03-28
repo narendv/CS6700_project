@@ -6,6 +6,7 @@ The following environments have been simulated.
 - [Taxi-v3](docs/taxi.md)
 - [KBC](docs/kbc.md)
 
+The link to the AIcrowd challenge page: https://www.aicrowd.com/challenges/rl-project-2021
 
 > Recommended software versions - `python 3.8`, `pip > 21.1.1`
 
